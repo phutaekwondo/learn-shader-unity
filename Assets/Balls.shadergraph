@@ -10,9 +10,6 @@
             "m_Id": "1af6d786117f442791767528bcca492f"
         },
         {
-            "m_Id": "bbf087fc47da402a9eb345763dba9363"
-        },
-        {
             "m_Id": "0380ed9ba1d14b78be0404c044f3334b"
         }
     ],
@@ -940,10 +937,10 @@
     "m_Guid": {
         "m_GuidSerialized": "cc4b0aec-4809-4d3a-9aca-96337dc22974"
     },
-    "m_Name": "Yellow",
+    "m_Name": "Color",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Yellow",
-    "m_DefaultReferenceName": "_Yellow",
+    "m_RefNameGeneratedByDisplayName": "Color",
+    "m_DefaultReferenceName": "_Color",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -2047,9 +2044,6 @@
             "m_Id": "1af6d786117f442791767528bcca492f"
         },
         {
-            "m_Id": "bbf087fc47da402a9eb345763dba9363"
-        },
-        {
             "m_Id": "0380ed9ba1d14b78be0404c044f3334b"
         }
     ]
@@ -2284,33 +2278,6 @@
 }
 
 {
-    "m_SGVersion": 1,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
-    "m_ObjectId": "bbf087fc47da402a9eb345763dba9363",
-    "m_Guid": {
-        "m_GuidSerialized": "f1d81396-60ae-4ea0-abe2-009532b37f53"
-    },
-    "m_Name": "Float",
-    "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Float",
-    "m_DefaultReferenceName": "_Float",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_UseCustomSlotLabel": false,
-    "m_CustomSlotLabel": "",
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": 0.0,
-    "m_FloatType": 0,
-    "m_RangeValues": {
-        "x": 0.0,
-        "y": 1.0
-    }
-}
-
-{
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.ColorRGBMaterialSlot",
     "m_ObjectId": "bf09f6db731d4e62991d93d94d4d4031",
@@ -2426,7 +2393,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
     "m_ObjectId": "cbb548a94bde4568ad0b1e1d5af5d94e",
     "m_Id": 0,
-    "m_DisplayName": "Yellow",
+    "m_DisplayName": "Color",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
